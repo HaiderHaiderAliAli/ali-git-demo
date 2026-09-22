@@ -1,1 +1,2 @@
-Hello world!
+Hello Dear!
+Welcome to GitAndGithub course

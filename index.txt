@@ -1,2 +1,4 @@
 Hello Dear!
 Welcome to GitAndGithub course
+
+This is part 2 video
